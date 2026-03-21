@@ -1,4 +1,4 @@
-# FPSPing
+# FPSPing (v1.4)
 
 A simple World of Warcraft 1.12 addon that displays FPS and latency (MS).
 
